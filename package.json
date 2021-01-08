@@ -1,0 +1,16 @@
+{
+  "name": "sass-hubl",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "atob": "^2.1.2",
+    "btoa": "^1.2.1",
+    "gaze": "^1.1.3",
+    "path": "^0.12.7",
+    "sass": "^1.32.0",
+    "string.prototype.replaceall": "^1.0.4",
+    "util": "^0.12.3"
+  }
+}
